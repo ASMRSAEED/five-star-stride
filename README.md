@@ -3,7 +3,7 @@
 
 # `Live Website Link`
 
-## [https://five-star-stride.netlify.app/](five-star-stride)
+## https://five-star-stride.netlify.app/
 
 ## This is a Assignment for the Programming Hero Web Course.
 
