@@ -1,6 +1,6 @@
-.reviews{
+.reviews {
     display: grid;
-    grid-template-columns: repeat(3 , 1fr);
+    grid-template-columns: repeat(3, 1fr);
     margin-left: 150px;
     margin-right: 150px;
     gap: 50px;
@@ -8,7 +8,6 @@
 
 .review-title {
     text-align: center;
-    color: #65C18C;
-    font-size: 40px;
+    color: blue;
+    font-size: 35px;
 }
-
