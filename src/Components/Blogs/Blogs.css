@@ -1,8 +1,23 @@
-.questions{
-    margin-left: 200px;
-    
+.questions {
+    margin: 30px 60px 30px 60px;
 }
 
-.questions p{
-    font-size: 20px;
+.question-1 {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+.question-2 {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+.question-3 {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: bisque;
 }
