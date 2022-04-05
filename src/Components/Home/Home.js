@@ -8,7 +8,7 @@ const Home = () => {
         <h1 className="top-text">Your Next Guitar</h1>
         <h1 className="bottom-text">Your Best Music</h1>
         <p className="main-text-paragraph">
-          There are a lot of different acoustic guitar brands that are available on the market, and it can be overwhelming to find the right musical instrument, but We offers a top quality guitar, with a great sound for beginning guitar players, all at an affordable price.
+          There are a lot of different guitar brands that are available on the market, and it can be overwhelming to find the right musical instrument, but We offers a top quality guitar, with a great sound for beginning guitar players, all at an affordable price.
         </p>
         <button className='shop-button'>Shop Now</button>
       </div>
