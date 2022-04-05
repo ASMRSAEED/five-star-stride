@@ -1,0 +1,39 @@
+.home-reviews {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 150px;
+    margin-right: 150px;
+    gap: 50px;
+    padding-top: 50px;
+}
+
+.home-reviews-title {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    margin-top: 100px;
+}
+
+.home-reviews-button {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.home-reviews-button .btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: #fff;
+    border: 2px solid blue;
+    background-color: #B51B39;
+    border-radius: 5px;
+
+}
+
+.home-reviews-button .btn:hover {
+    border: 2px solid black;
+    background-color: transparent;
+    color: #E99D3E;
+}

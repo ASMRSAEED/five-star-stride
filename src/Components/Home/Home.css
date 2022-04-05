@@ -1,0 +1,58 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-left: 50px;
+    margin-right: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-text {
+    margin-top: 150px;
+}
+
+.guitar img {
+    height: 90%;
+    width: 135%;
+    margin-right: 50px;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+
+.top-text {
+    font-size: 46px;
+    margin: 0;
+    margin-left: 50px;
+}
+
+.bottom-text {
+    font-size: 46px;
+    margin: 0;
+    margin-left: 50px;
+    color: blue;
+}
+
+.main-text-paragraph {
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #222;
+    line-height: 28px;
+}
+
+.main-text button {
+    padding: 10px 20px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: #fff;
+    border: 2px solid blue;
+    background-color: #B51B39;
+    border-radius: 5px;
+}
+
+.main-text button:hover {
+    border: 2px solid black;
+    background-color: transparent;
+    color: #E99D3E;
+}
